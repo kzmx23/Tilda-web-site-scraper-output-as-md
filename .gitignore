@@ -1,0 +1,20 @@
+.playwright-mcp
+.env
+.venv
+node_modules
+.pytest_cache
+.ruff_cache
+.vscode
+__pycache__
+.claude/commands/scrapedo-web-scraper/config/token.txt
+app/scrapedo-web-scraper/config/token.txt
+
+# Scraping results
+result/
+oth/
+*.mhtml
+*_structure.json
+create_*_global.py
+debug_html.html
+test_*.py
+*-test.md
